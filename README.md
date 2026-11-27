@@ -3,7 +3,6 @@
 [![Logisim Evolution](https://img.shields.io/badge/Simulator-Logisim%20Evolution-2ea44f?style=for-the-badge)](https://github.com/logisim-evolution/logisim-evolution)
 [![Target Hardware](https://img.shields.io/badge/FPGA-Intel%20DE1--SoC-0071C5?style=for-the-badge)](#-overview)
 [![Toolchain](https://img.shields.io/badge/Typesetting-LaTeX-008080?style=for-the-badge)](#-overview)
-[![Course](https://img.shields.io/badge/Course-CSC258-blueviolet?style=for-the-badge)](#-overview)
 
 A collection of digital logic designs, circuit schematics, finite state machines, and hardware simulations built across the **CSC258 (Computer Organization)** lab series using **Logisim Evolution**, **74LS TTL integrated circuits**, and **DE1-SoC** hardware synthesis[cite: 1, 12, 18, 26, 29, 37].
 
